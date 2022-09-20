@@ -9,11 +9,11 @@ export default function About() {
         project is part of the
         <a href='https://www.udemy.com/course/modern-react-front-to-back/'>
           {' '}
-          React Front To Back
+          React GitHub Finder
         </a>{' '}
-        Udemy course by
+        
         <strong>
-          <a href='https://traversymedia.com'> Brad Traversy</a>
+          <a href='#'> Dharmesh Singh</a>
         </strong>
         .
       </p>
@@ -23,7 +23,7 @@ export default function About() {
       <p className='text-lg text-gray-400'>
         Layout By:
         <a className='text-white' href='https://twitter.com/hassibmoddasser'>
-          Hassib Moddasser
+          Dharmesh Singh
         </a>
       </p>
     </>
